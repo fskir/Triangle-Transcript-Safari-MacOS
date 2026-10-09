@@ -94,4 +94,4 @@ codesign --verify --deep --strict "dist/Triangle Transcript.app"
 
 Исходный проект: [HelpFreedom/Triangle-Downloader](https://github.com/HelpFreedom/Triangle-Downloader). Этот форк выделяет работу с транскрипцией в отдельное расширение Safari. Извлечение текста и обработка панелей YouTube адаптированы из исходного проекта; нативная оболочка и сценарий копирования добавлены в этом форке. Код распространяется под GPL-3.0; полный текст — в [LICENSE](LICENSE).
 
-Safari-адаптация разработана при участии ChatGPT Codex.
+Safari-адаптация разработана при участии OpenAI ChatGPT 6.1 Sol в Codex.
